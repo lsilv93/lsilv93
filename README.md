@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luan Felipe 👋</h1>
 
 <h3 align="center">
-  Coordenador de Torre de Controle | Logística & Transporte | Análise de Dados & Automação
+  Logística & Supply Chain | Torre de Controle (Control Tower) | Coordenação de Transportes | Data Analytics
 </h3>
 
 <p align="center">
@@ -22,14 +22,16 @@
 
 ## 👨‍💻 Sobre Mim
 
-Profissional de **Logística e Transporte** com foco em **Torre de Controle**, unindo visão operacional e **análise de dados** para tomar decisões mais rápidas e baseadas em evidências.
+Profissional de **Logística e Supply Chain** especialista em **coordenação de transportes, inteligência operacional e liderança de equipes**.
 
-- 🏛️ Coordeno **operações de Torre de Controle em nível Brasil**, acompanhando a execução do transporte de ponta a ponta.
-- 👥 Lidero equipes e operações de transporte, com foco em desempenho, cumprimento de prazos e melhoria contínua.
-- 📊 Construo **dashboards e modelos em Power BI** (DAX) para dar visibilidade a KPIs, jornadas e rotas.
-- 🗄️ Uso **SQL** para extrair e tratar dados e **Python/VBA** para automatizar rotinas e reduzir trabalho manual.
-- 🚚 Monitoro jornadas, rotas e indicadores operacionais, antecipando desvios e atuando de forma proativa.
-- 🎯 Meu foco é transformar dados em ação: menos planilhas manuais, mais processos automatizados e confiáveis.
+Tenho sólida experiência na **implementação de Torres de Controle (Control Tower)**, cobrindo tanto a **Gestão de Transportes e Malha Operacional** quanto o **Controle de Jornada do Motorista**, sempre com foco em **níveis de serviço (KPIs), conformidade e eficiência de custos**.
+
+- 🏛️ Implantação e coordenação de Torres de Controle em nível nacional.
+- 🛣️ Gestão de transportes, malha operacional e controle de jornada do motorista.
+- 📊 Data Analytics com **Power BI, Excel Avançado, SQL e Access**, unindo capacidade analítica ao desenvolvimento de novos processos.
+- 🤖 Automação de rotinas com **Python e VBA**.
+- 👥 Formação e liderança de times de alta performance.
+- 🚀 Perfil ágil, adaptável a ambientes desafiadores e orientado à inovação e à geração de resultados.
 
 ---
 
@@ -38,22 +40,21 @@ Profissional de **Logística e Transporte** com foco em **Torre de Controle**, u
 ### 📈 Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel Avançado](https://img.shields.io/badge/Excel%20Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🗄️ Databases & Querying
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 
 ### ⚙️ Automation & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### 🚛 Logistics & Management Systems
-![TMS](https://img.shields.io/badge/TMS-Gest%C3%A3o%20de%20Transporte-1F6FEB?style=for-the-badge)
-![Torre de Controle](https://img.shields.io/badge/Torre%20de%20Controle-Monitoramento-FF6B00?style=for-the-badge)
-![KPIs](https://img.shields.io/badge/KPIs-Indicadores%20Operacionais-6E40C9?style=for-the-badge)
+![Control Tower](https://img.shields.io/badge/Control%20Tower-Torre%20de%20Controle-FF6B00?style=for-the-badge)
+![Gestão de Transportes](https://img.shields.io/badge/Gest%C3%A3o%20de%20Transportes-Malha%20Operacional-1F6FEB?style=for-the-badge)
+![Jornada do Motorista](https://img.shields.io/badge/Jornada%20do%20Motorista-Conformidade-C2410C?style=for-the-badge)
+![KPIs](https://img.shields.io/badge/KPIs-N%C3%ADveis%20de%20Servi%C3%A7o-6E40C9?style=for-the-badge)
 ![Gestão de Equipes](https://img.shields.io/badge/Gest%C3%A3o%20de%20Equipes-Lideran%C3%A7a-2EA44F?style=for-the-badge)
 
 ### 🧰 Ferramentas de Apoio
@@ -67,11 +68,12 @@ Profissional de **Logística e Transporte** com foco em **Torre de Controle**, u
 
 | Área | O que eu faço |
 |------|---------------|
-| 🏛️ **Torre de Controle Nível Brasil** | Coordenação do monitoramento nacional da operação de transporte, garantindo visibilidade e resposta rápida a ocorrências. |
-| 🛣️ **Jornadas & Rotas** | Acompanhamento de jornadas, rotas e cumprimento de SLAs, com identificação antecipada de desvios. |
-| 📊 **KPIs & Dashboards** | Modelagem de dados e painéis em Power BI/DAX para acompanhamento de indicadores de desempenho. |
-| 🤖 **Automação de Processos** | Automação de rotinas e relatórios com Python, VBA e SQL, reduzindo retrabalho e erros manuais. |
-| 👥 **Gestão de Equipes** | Liderança de equipes operacionais, definição de metas, rotinas de acompanhamento e melhoria contínua. |
+| 🏛️ **Implementação de Torres de Controle** | Estruturação de Control Towers: processos, rotinas, indicadores e equipe para dar visibilidade e capacidade de resposta à operação. |
+| 🛣️ **Gestão de Transportes & Malha Operacional** | Coordenação da malha de transportes, acompanhamento de rotas e garantia dos níveis de serviço. |
+| 🚦 **Controle de Jornada do Motorista** | Monitoramento da jornada para garantir conformidade, segurança e eficiência operacional. |
+| 📊 **Data Analytics & KPIs** | Painéis e análises em Power BI, Excel Avançado, SQL e Access para acompanhar KPIs e apoiar decisões. |
+| 💰 **Eficiência de Custos** | Uso de inteligência operacional para reduzir desperdícios e otimizar o custo logístico. |
+| 👥 **Liderança & Times de Alta Performance** | Formação e desenvolvimento de equipes, criação de novos processos e cultura de melhoria contínua. |
 
 ---
 
@@ -100,5 +102,5 @@ Profissional de **Logística e Transporte** com foco em **Torre de Controle**, u
 </p>
 
 <p align="center">
-  💬 Vamos trocar ideias sobre <b>logística, torre de controle, dados e automação</b>!
+  💬 Vamos trocar ideias sobre <b>logística, supply chain, torre de controle, dados e automação</b>!
 </p>
